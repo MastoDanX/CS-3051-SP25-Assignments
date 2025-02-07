@@ -1,0 +1,53 @@
+#container{
+    background-color: #000000 ;
+    border: #FFFFFF;
+    border-color: #FF0000;
+    border-width: 5px;
+    margin-top: 5vh;
+    margin-left: 25vw;
+}
+
+#animate_door{
+
+}
+
+h1{
+    color: #1ed154;
+    font-family: "press Start 2P", sans-serif;
+    font-size: 50px;
+}
+
+div{
+    margin: 2vw;
+}
+
+#button_box{
+    padding-top: 50px;
+    padding-left: 67px;
+}
+
+button:hover{
+    background-color: darkgrey;
+}
+
+button::after{
+    background-color: lightgrey;
+}
+
+button{
+    background-color: #000;
+    border-color: #FFF;
+    font-family: "Keania One", "Press Start 2P", serif;
+    font-size:25px;
+    color:#ffffff;
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+}
+
+#door{
+    margin: 10px;
+    padding: 0px;
+    width: 450px;
+    height: 600px;
+}
